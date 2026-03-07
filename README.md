@@ -22,7 +22,7 @@ The following technologies and libraries are used in these projects:
 
 ## 📂 Projects
 
-### 1️⃣ Mine vs Rock Prediction
+### 1- Mine vs Rock Prediction
 
 #### 📖 Project Description
 A **classification model** that predicts whether an object detected by **sonar signals** is a **mine** or a **rock** using machine learning.
@@ -30,9 +30,14 @@ A **classification model** that predicts whether an object detected by **sonar s
 #### 🤖 Algorithm Used
 - Logistic Regression
 
-#### 📊 Dataset
-- Sonar Dataset
+### 2- Breast Cancer Detection
 
+#### 📖 Project Description
+This project focuses on building a **Machine Learning model to predict whether a breast tumor is malignant (cancerous) or benign (non-cancerous)** using medical diagnostic data. 
+
+#### 🤖 Algorithm Used
+- Logistic Regression
+---
 
 ### "If you torture the data long enough, it will confess"
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
